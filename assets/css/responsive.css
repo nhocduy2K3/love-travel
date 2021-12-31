@@ -367,6 +367,9 @@
      /* .extra-wrap{
         width:auto;
     }    */
+    .packages__icon {
+        left:250px;
+    }
 }
 /* mobile */
 @media (max-width:739px) {
